@@ -49,10 +49,10 @@ server=/gamer.com.tw/154.12.177.22
 server=/gamer-cds.cdn.hinet.net/154.12.177.22
 server=/gamer2-cds.cdn.hinet.net/154.12.177.22
 # Disney DNS解锁
-server=/disney.com/154.12.177.22
-server=/disneyjunior.com/154.12.177.22
-server=/disneyplus.com/154.12.177.22
-server=/bamgrid.com/154.12.177.22
+server=/dmm.co.jp/157.20.104.47
+server=/dmm.com/157.20.104.47
+server=/disneyplus.com/157.20.104.47
+server=/bamgrid.com/157.20.104.47
 # ChatGPT DNS解锁
 server=/openai.com/154.12.177.22
 server=/chatgpt.com/154.12.177.22
