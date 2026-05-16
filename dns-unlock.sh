@@ -31,7 +31,7 @@ if ! command -v jq &> /dev/null; then
 fi
 
 # 指定配置文件的下载地址
-CONFIG_URL="https://raw.githubusercontent.com/Jimmyzxk/DNS-Alice-Unlock/refs/heads/main/dnsmasq.conf"
+CONFIG_URL="https://raw.githubusercontent.com/pmoled/DNS-Alice-Unlock/refs/heads/main/dnsmasq.conf"
 CONFIG_FILE="/etc/dnsmasq.conf"
 SCRIPT_NAME="dns-unlock.sh"
 SCRIPT_PATH="/root/$SCRIPT_NAME"
